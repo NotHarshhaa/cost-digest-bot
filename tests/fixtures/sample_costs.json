@@ -1,0 +1,32 @@
+{
+  "2026-04-01": {
+    "EC2": 548.23,
+    "RDS": 192.45,
+    "S3": 51.12,
+    "Lambda": 12.34,
+    "CloudFront": 23.45,
+    "Route53": 8.90,
+    "CloudWatch": 15.67,
+    "DataTransfer": 45.78
+  },
+  "2026-04-02": {
+    "EC2": 567.89,
+    "RDS": 198.76,
+    "S3": 48.34,
+    "Lambda": 15.23,
+    "CloudFront": 25.67,
+    "Route53": 8.90,
+    "CloudWatch": 16.78,
+    "DataTransfer": 42.11
+  },
+  "2026-04-03": {
+    "EC2": 640.15,
+    "RDS": 210.34,
+    "S3": 48.12,
+    "Lambda": 38.45,
+    "CloudFront": 28.90,
+    "Route53": 8.90,
+    "CloudWatch": 18.23,
+    "DataTransfer": 47.89
+  }
+}

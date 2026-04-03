@@ -1,0 +1,1 @@
+"""Cost digest bot package."""
